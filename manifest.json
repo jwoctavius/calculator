@@ -1,0 +1,21 @@
+{
+  "name": "Калькулятор времени",
+  "short_name": "Время",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4CAF50",
+  "description": "Планируй время до дедлайна — просто и понятно.",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
